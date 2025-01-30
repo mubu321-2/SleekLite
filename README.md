@@ -1,5 +1,5 @@
 # SleekLite
-This is too simple!
+This is too simple!                                             
 Original→https://github.com/mubu321/mubudou-search
 mubudousearch　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 We made mubudousearch simpler.
